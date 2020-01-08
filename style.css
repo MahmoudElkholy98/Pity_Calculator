@@ -1,0 +1,15 @@
+body{
+  background-color: #FFF3E0;
+}
+
+.container{
+  margin-top: 2%;
+}
+
+.card{
+  padding: 20px 20px;
+  background-color: #f4f4f4;
+  box-shadow: 2px 3px 5px rgba(255, 0, 0, 0.5);
+  -webkit-box-shadow: 2px 3px 5px rgba(255, 0, 0, 0.5);
+  -moz-box-shadow: 2px 3px 5px rgba(255, 0, 0, 0.5);
+}
